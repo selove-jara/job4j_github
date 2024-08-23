@@ -5,5 +5,6 @@ public class Hello {
         System.out.println("We well not use 'Hello world!'");
         System.out.println("Nothing of the kind");
         System.out.println("Hello world!");
+        System.out.println("How are you?");
     }
 }
